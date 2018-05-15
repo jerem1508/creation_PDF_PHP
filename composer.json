@@ -1,0 +1,13 @@
+{
+    "name": "contest/composer",
+    "description": "contestations",
+    "require": {
+        "spipu/html2pdf": "^5.0"
+    },
+    "authors": [
+        {
+            "name": "Jerem",
+            "email": "jeremy.peglion@gmail.com"
+        }
+    ]
+}
